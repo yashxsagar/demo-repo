@@ -1,0 +1,15 @@
+{
+  "name": "aqi",
+  "version": "1.0.0",
+  "description": "A simple express app on port 5050 to check the AQI of the provided city",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
